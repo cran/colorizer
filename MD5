@@ -1,0 +1,12 @@
+000f8afd427fc6568d65424c09dc664b *DESCRIPTION
+8e98c91a954ca8ad145ba75d477205e4 *LICENSE
+1116dd3cb1c9f9c699388a23d3b1bf54 *NAMESPACE
+918cbf36af1fd8daa6be59ef071bcd6d *R/clsave.R
+df251a6c94e84708fc367e18107cc475 *R/colorize.R
+e544a7fb6843e5b80595fb0aa6c75fa0 *R/colorizer.R
+0dd56d38951fcde27f5c2c29d1ce1447 *R/juxtapose.R
+08bcf265a3a793ad69177d62aea9ab8d *R/utils.R
+091bba375f4c49a7fa01f926136ebb2e *man/clsave.Rd
+290be7626d30db30573d155d4b92d829 *man/colorize.Rd
+ddaf13fcfa4d2ef375aeb832aff8aa5c *man/colorizer.Rd
+a39e228a86b3f4d192ae51a98f65e6d1 *man/juxtapose.Rd
